@@ -28,7 +28,7 @@ Accédez à l'interface d'administration via votre navigateur :
 - Mot de passe : `admin`
 
 ![Interface Admin](screens/2.png)
-![Interface Admin](screens/2.2png)
+![Interface Admin](screens/2.2.png)
 
 ### 3. Créer une Realm
 
