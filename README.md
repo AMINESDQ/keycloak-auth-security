@@ -19,6 +19,7 @@ docker run -p 8181:8080 \
 
 ![Démarrage de Keycloak](screens/1.png)
 
+
 ### 2. Créer un Compte Admin
 
 Accédez à l'interface d'administration via votre navigateur :
@@ -26,6 +27,7 @@ Accédez à l'interface d'administration via votre navigateur :
 - Nom d'utilisateur : `admin`
 - Mot de passe : `admin`
 
+![Interface Admin](screens/2.1.png)
 ![Interface Admin](screens/2.png)
 
 ### 3. Créer une Realm
