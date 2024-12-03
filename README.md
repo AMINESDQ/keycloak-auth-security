@@ -43,7 +43,7 @@ Accédez à l'interface d'administration via votre navigateur :
 
 1. Dans la page de votre Realm, allez dans `Clients`
 2. Cliquez sur `Create`
-3. Donnez un nom à votre client (ex : `my-client`)
+3. Donnez un nom à votre client (ex : `spring-cloud-client`)
 4. Choisissez le type de client (Confidential pour une application web)
 5. Cliquez sur `Save`
 
